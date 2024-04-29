@@ -19,6 +19,9 @@ int main() {
 
     return 0;
 }
-int add_branch(int a, int b){
-return c= a+b;
+int add_branch(int a, int b)
+{
+	int c = a+b;
+	return c;
 }
+//added function in branch1
