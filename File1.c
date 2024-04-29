@@ -1,4 +1,4 @@
-#include <stdio.h>
+i#include <stdio.h>
 
 int main() {
     int num1, num2, sum;
@@ -19,4 +19,9 @@ int main() {
 
     return 0;
 }
-
+int add_branch(int a, int b)
+{
+        int c = a+b;
+        return c;
+}
+//added same function in main branch
