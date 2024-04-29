@@ -21,7 +21,8 @@ int main() {
 }
 int add_branch(int a, int b)
 {
+<<<<<<< HEAD
         int c = a+b;
         return c;
 }
-//added same function in main branch
+//conflict resolved
